@@ -11,4 +11,4 @@ This Repo contains the complete notebooks (Quizes included) of the MongoDB cours
 ```cd MongoDB-Coursera-s-course-Quizes-solutions-and-Notebooks```
   
   
-#### <strong>N.B:</strong> this is not a complete substitute for the original course, I strongly advise you to watch it and take this documents as backups####
+#### <strong>N.B:</strong> this is not a complete substitute for the original course, I strongly advise you to watch it and take this documents as backups ####
